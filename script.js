@@ -44,8 +44,6 @@ $(".saveBtn").on("click", function () {
     localStorage.setItem(time, value);
 });
 
-
 for (var i = 8; i < 18; i++) {
     $(`.hour-${i}`).val(localStorage.getItem(`hour-${i}`));
 }
-
