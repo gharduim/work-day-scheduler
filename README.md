@@ -1,10 +1,8 @@
 # Work Day Scheduler
 
-## Homework - week 5
-
 ## Short description
 
-I have created a Work Day Scheduler with the criteria below.
+ A simple calendar application that allows a user to save events for each hour of the day by modifying starter code.
 
 ```
 GIVEN I am using a daily planner to create a schedule
